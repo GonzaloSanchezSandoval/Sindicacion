@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+
+<rss version="2.0">
+<channel>
+
+<title>El tiempo en tu localidad</title>
+<link>www.eltiempo24.es</link>
+<language>es</language>
+
+<item>
+<title>Tiempo</title>
+<link>www.eltiempo24.es</link>
+</item>
+
+
+<item>
+<title>Eventos especiales</title>
+<link>https://www.tiempo.es/especial/festivales-de-musica.html</link>
+
+</item>
+</channel>
+
+</rss>
